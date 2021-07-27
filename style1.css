@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F2AA4CFF;
+}
+div.flipdown{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  font-family: 'Acme', sans-serif;
+  text-transform: capitalize;
+  letter-spacing: 1mm;
+  text-align: center;
+  color:#101820ff;
+}
+span.thanwaya{
+  font-family: 'Acme', sans-serif;
+  letter-spacing: 3px;
+  text-transform: capitalize;
+  color: #101820ff;
+}
+span.def{
+  font-family: 'Acme', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 15px;
+  display: inline-block;
+  width: 100%;
+  margin: 20px 0;
+}
+
+div.end{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  position: relative;
+  top: 30px;
+}
