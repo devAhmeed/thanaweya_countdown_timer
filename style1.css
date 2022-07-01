@@ -9,7 +9,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(0deg, #B2FEFA, #0ED2F7);
+  background: linear-gradient(201deg, #B2FEFA, #0ED2F7);
 }
 div.flipdown{
   width: 100%;
