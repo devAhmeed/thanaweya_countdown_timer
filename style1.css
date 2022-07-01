@@ -2,13 +2,14 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  color: #ffffff;
 }
 body{
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #F2AA4CFF;
+  background: linear-gradient(0deg, #B2FEFA, #0ED2F7);
 }
 div.flipdown{
   width: 100%;
@@ -21,13 +22,13 @@ h1{
   text-transform: capitalize;
   letter-spacing: 1mm;
   text-align: center;
-  color:#101820ff;
+  color:#ffffff;
 }
 span.thanwaya{
   font-family: 'Acme', sans-serif;
   letter-spacing: 3px;
   text-transform: capitalize;
-  color: #101820ff;
+  color: #101820;
 }
 span.def{
   font-family: 'Acme', sans-serif;
